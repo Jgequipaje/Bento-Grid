@@ -358,20 +358,20 @@ function App() {
           <StyledContent1>
             Create and schedule content <em>quicker.</em>
           </StyledContent1>
-          <StyledImage1 src="src/assets/images/illustration-create-post.webp" />
+          <StyledImage1 src="images/illustration-create-post.webp" />
         </StyledGrid1>
         <StyledGrid2 className="grid">
           <StyledFlexItemsColumn>
             <StyledContent2>
               Social Media <span>10x</span> <StyledEm>Faster</StyledEm> with AI
             </StyledContent2>
-            <StyledImage2 src="src/assets/images/illustration-five-stars.webp" />
+            <StyledImage2 src="images/illustration-five-stars.webp" />
             <StyledSmall>Over 4,000 5-star reviews</StyledSmall>
           </StyledFlexItemsColumn>
         </StyledGrid2>
         <StyledGrid3 className="grid">
           <StyledContent3>Schedule to social media.</StyledContent3>
-          <StyledImage3 src="src/assets/images/illustration-schedule-posts.webp" />
+          <StyledImage3 src="images/illustration-schedule-posts.webp" />
           <StyledContent3Description>
             Optimize post timings to publish content at the perfect time for
             your audience.
@@ -379,10 +379,10 @@ function App() {
         </StyledGrid3>
         <StyledGrid4 className="grid">
           <StyledContent1>Write your content using AI.</StyledContent1>
-          <StyledImage4 src="src/assets/images/illustration-ai-content.webp" />
+          <StyledImage4 src="images/illustration-ai-content.webp" />
         </StyledGrid4>
         <StyledGrid5 className="grid">
-          <StyledImage5 src="src/assets/images/illustration-multiple-platforms.webp" />
+          <StyledImage5 src="images/illustration-multiple-platforms.webp" />
           <StyledContent5>
             Manage multiple accounts and platforms.
           </StyledContent5>
@@ -391,17 +391,17 @@ function App() {
           <StyledContent6>
             Maintain a consistent posting schedule.
           </StyledContent6>
-          <StyledImage6 src="src/assets/images/illustration-consistent-schedule.webp" />
+          <StyledImage6 src="images/illustration-consistent-schedule.webp" />
         </StyledGrid6>
         <StyledGrid7 className="grid">
           <StyledContent7>&gt;56%</StyledContent7>
           <StyledContent7Description>
             faster audience growth
           </StyledContent7Description>
-          <StyledImage7 src="src/assets/images/illustration-audience-growth.webp" />
+          <StyledImage7 src="images/illustration-audience-growth.webp" />
         </StyledGrid7>
         <StyledGrid8 className="grid">
-          <StyledImage8 src="src/assets/images/illustration-grow-followers.webp" />
+          <StyledImage8 src="images/illustration-grow-followers.webp" />
           <StyledContent8>Grow followers with non-stop content.</StyledContent8>
         </StyledGrid8>
       </StyledGrid>
